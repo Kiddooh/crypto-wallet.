@@ -1,0 +1,15 @@
+{
+  "name": "crypto-wallet.",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/YOUR-USERNAME/crypto-wallet.git cd crypto-wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.18"
+  }
+}
